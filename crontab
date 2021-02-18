@@ -1,0 +1,3 @@
+30 22 * * Mon,Tue,Wed,Thu,Fri root sh /tmp/run.sh >> /var/log/cron.log
+# Run every weekdays at 22.30
+# Don't remove the empty line at the end of this file. It is required to run the cron job

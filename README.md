@@ -34,3 +34,7 @@ Most of the time, the reason will be keys with no Time to live(TTL). That means,
 2.```docker container create redis-ttl-missing-alert-service:latest```
 
 3.```docker start #container_name```
+
+## Sample Alert 
+
+![Image](https://github.com/jango89/redis-ttl-missing-alert-service/blob/master/Screenshot%202021-02-18%20at%2017.50.44.png)
